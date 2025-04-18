@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Arkapravo-Sen
 - 👀 I’m interested in Machine Learning, Raspberry Pi, and playing Video Games
 - 🌱 I’m currently learning ML and how to program Raspberry Pi
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like swimming
 
 <!---
